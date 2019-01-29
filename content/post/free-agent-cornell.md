@@ -82,7 +82,7 @@ meetings. This is where I found the true strength of the free agent system.
 Since professors expect students to go talk to a lot of people, they expect and
 often encourage students to do research rotations with professors they are interested in working with.
 It also makes it easy to reach out to professors and learn about their
-work. I cannot understate how important it is to me to learn about and have
+work. I cannot overstate how important it is to me to learn about and have
 conversations about research in different domains. One of my goals going into a PhD is
 to have a broad sense of the different kinds of problems in different domains
 and having access to professors in different areas makes it very easy to do so.
